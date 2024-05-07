@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "Firstname": "a title",
+      "lastname": "ruban",
+      "gender": "male"
+    },
+    {
+      "id": "332c",
+      "firstName": "sf",
+      "lastName": "sf",
+      "gender": "female"
+    },
+    {
+      "id": "85eb",
+      "firstName": "sf",
+      "lastName": "sf",
+      "gender": "female"
+    },
+    {
+      "id": "6109",
+      "firstName": "raj",
+      "lastName": "kumar",
+      "gender": "male"
+    }
+  ]
+}
